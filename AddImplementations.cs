@@ -3,7 +3,7 @@ using System.Numerics;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace AddTest
+namespace TestHarness
 {
     public class AddImplementations
     {
